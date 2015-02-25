@@ -11,6 +11,7 @@ revision.
 By looking at / using / contributing to this code, you agree to the following:<br />
 * All code added shall automatically be MIT license.<br />
 * I'm not responsible for anything that happens as a result of using this code.<br />
-<br />
+
+
 Projects:<br />
 * OpenGL/Core : A bunch of low-level tools to make OpenGL easier.<br />
